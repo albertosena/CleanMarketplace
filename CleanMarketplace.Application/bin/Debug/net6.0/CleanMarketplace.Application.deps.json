@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanMarketplace.Application/1.0.0": {
+        "dependencies": {
+          "CleanMarketplace.Core": "1.0.0"
+        },
+        "runtime": {
+          "CleanMarketplace.Application.dll": {}
+        }
+      },
+      "CleanMarketplace.Core/1.0.0": {
+        "runtime": {
+          "CleanMarketplace.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanMarketplace.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanMarketplace.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

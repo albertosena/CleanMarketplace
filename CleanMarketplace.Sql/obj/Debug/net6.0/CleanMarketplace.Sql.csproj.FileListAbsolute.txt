@@ -1,0 +1,12 @@
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\bin\Debug\net6.0\CleanMarketplace.Sql.deps.json
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\bin\Debug\net6.0\CleanMarketplace.Sql.dll
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\bin\Debug\net6.0\CleanMarketplace.Sql.pdb
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\CleanMarketplace.Sql.csproj.AssemblyReference.cache
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\CleanMarketplace.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\CleanMarketplace.Sql.AssemblyInfoInputs.cache
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\CleanMarketplace.Sql.AssemblyInfo.cs
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\CleanMarketplace.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\CleanMarketplace.Sql.dll
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\refint\CleanMarketplace.Sql.dll
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\CleanMarketplace.Sql.pdb
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Sql\obj\Debug\net6.0\ref\CleanMarketplace.Sql.dll

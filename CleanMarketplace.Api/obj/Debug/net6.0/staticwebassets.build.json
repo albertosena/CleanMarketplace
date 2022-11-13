@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rhd8qEN4JfsAS/PmxmyzvlN0ScIGUfeurcyX2uaUcUo=",
+  "Source": "CleanMarketplace.Api",
+  "BasePath": "_content/CleanMarketplace.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

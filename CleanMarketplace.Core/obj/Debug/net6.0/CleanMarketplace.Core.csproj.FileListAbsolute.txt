@@ -1,0 +1,12 @@
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\bin\Debug\net6.0\CleanMarketplace.Core.deps.json
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\bin\Debug\net6.0\CleanMarketplace.Core.dll
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\bin\Debug\net6.0\CleanMarketplace.Core.pdb
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\CleanMarketplace.Core.csproj.AssemblyReference.cache
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\CleanMarketplace.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\CleanMarketplace.Core.AssemblyInfoInputs.cache
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\CleanMarketplace.Core.AssemblyInfo.cs
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\CleanMarketplace.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\CleanMarketplace.Core.dll
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\refint\CleanMarketplace.Core.dll
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\CleanMarketplace.Core.pdb
+C:\Users\Alberto\Desktop\CleanMarketplace\CleanMarketplace.Core\obj\Debug\net6.0\ref\CleanMarketplace.Core.dll
